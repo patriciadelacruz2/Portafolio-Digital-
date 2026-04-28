@@ -1,0 +1,42 @@
+body {
+    background-color: lightpink;
+    text-align: center;
+    font-family: Arial;
+}
+
+.contenedor-portafolio {
+    background-color: white;
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+h1 {
+    color: lightblue;
+}
+
+h2 {
+    font-weight: bold;
+    color: darkpink;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}
+
+a {
+    display: block;
+    background-color: lightpink;
+    color: darkblue;
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: red;
+    transform: scale(1.02);
+}
